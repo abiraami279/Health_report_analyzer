@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+openai
+sentence-transformers
+docarray
+pymupdf
+pdfplumber
+pytesseract
+pillow
+PyPDF2
+transformers
