@@ -7,4 +7,5 @@ def app():
 
     ### Features:
     - 📄 Upload reports (PDF/image)
-    - 💬 Ask questions and get personalized answer
+    - 💬 Ask questions and get personalized answers
+    """)
